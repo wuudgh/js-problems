@@ -1,6 +1,6 @@
 function sumNum(thousand) {
   let sum = 0;
-  for (let i = 0; i <= thousand; i++) {
+  for (let i = 1; i <= thousand; i++) {
     //console.log("i", i);
     sum += i;
   }

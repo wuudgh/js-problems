@@ -34,3 +34,5 @@ for (let i = 0; i < fourthNumbers.toString().length; i++) {
   total4 += 1;
 }
 //console.log(total4);
+
+//node ./src/easy/digitCount/solution.js
